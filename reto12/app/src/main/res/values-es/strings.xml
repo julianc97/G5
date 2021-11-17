@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">reto1</string>
+    <string name="txt_action_search">busqueda</string>
+    <string name="txt_action_setting">configuracion</string>
+    <string name="txt_action_logout">cerrar sesion</string>
+    <string name="text_username">usuario</string>
+    <string name="text_password">contraseña</string>
+    <string name="hint_password">contraseña</string>
+    <string name="text_LOGIN">ingresar</string>
+    <string name="text_error_message">Usuario o contraseña invalido</string>
+    <string name="text_register">registrarse</string>
+    <string name="text_action_settings">Settings</string>
+    <string name="text_action_search">Search</string>
+    <string name="text_action_logout">cortinas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_vendedor">vendedor</string>
+    <string name="text_name">nombre </string>
+    <string name="text_yourname">your name </string>
+    <string name="text_last_name">apellido</string>
+    <string name="text_you_last_name">tu apellido</string>
+    <string name="text_id">identificacion</string>
+    <string name="text_your_id">tu identificación</string>
+    <string name="text_welcome">bienvenido</string>
+    <string name="text_curtain">Cortinas 100 % Blackout
+            con revestimiento para la habitación, cortinas con ojales, de lino con textura de
+            aislamiento térmico para la sala de estar </string>
+    <string name="text_cost">costo</string>
+    <string name="text_curtain2">Cortinas de lino con textura y con ojal superior filtrante de luz, para ventana, 2 paneles para dormitorio o para sala de estar. </string>
+    <string name="text_curtain3">Cortinas navideñas con diseño de copos de nieve,con ojales , cortinas de tratamiento de ventanas, decorativas para vacaciones, paneles de cortina rojos, para el hogar </string>
+    <string name="text_customer">cliente </string>
+    <string name="text_add_to_cart">agregar al carrito </string>
+    <string name="text_curtain_type">tipo de cortina </string>
+    <string name="text_available_colours">colores disponibles </string>
+    <string name="text_measures">medidas disponibles</string>
+    <string name="text_value">valor ($) </string>
+    <string name="text_Share">cuota ($)</string>
+    <string name="text_buy"> comprar</string>
+
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mTipoCortinas">
+        <item>yacan</item>
+        <item>lona</item>
+        <item>BlackOut</item>
+    </string-array>
+
+    <string-array name="mColorCortinas">
+        <item>negro</item>
+        <item>blanco hueso</item>
+        <item>beige</item>
+    </string-array>
+
+
+    <string-array name="mAltoCortinas">
+        <item> 2,8 x 2,15 metros</item>
+        <item> 3,5 x 2,5 metros</item>
+        <item> 4,5 x 2,5 metros</item>
+    </string-array>
+
+
+</resources>

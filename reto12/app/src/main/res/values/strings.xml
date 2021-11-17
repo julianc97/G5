@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">reto1</string>
+    <string name="txt_action_search">search</string>
+    <string name="txt_action_setting">settings</string>
+    <string name="txt_action_logout">logout</string>
+    <string name="text_username">username</string>
+    <string name="text_password">password</string>
+    <string name="hint_password">password</string>
+    <string name="text_LOGIN">login</string>
+    <string name="text_error_message">Invalid Username or Password</string>
+    <string name="text_register">register</string>
+    <string name="text_action_settings">Settings</string>
+    <string name="text_action_search">Search</string>
+    <string name="text_vendedor">seller </string>
+    <string name="text_action_logout">curtains</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_name">name </string>
+    <string name="text_yourname">your name </string>
+    <string name="text_last_name">last name</string>
+    <string name="text_you_last_name">your last name</string>
+    <string name="text_id">Id</string>
+    <string name="text_your_id">your Id</string>
+    <string name="text_welcome">welcome</string>
+    <string name="text_curtain">100% blackout curtains
+              with bedroom paneling, grommeted curtains, textured linen
+              thermal insulation for the living room </string>
+    <string name="text_cost">cost</string>
+    <string name="text_curtain2">Textured Linen Curtains with Light Filtering Top Grommet, Window, 2 Panels for Bedroom or Living Room. </string>
+    <string name="text_curtain3">Grommets Snowflake Pattern Christmas Curtains Window Treatment Curtains Holiday Decorative Red Curtain Panels For Home </string>
+    <string name="text_customer">customer </string>
+    <string name="text_add_to_cart">add to cart </string>
+    <string name="text_curtain_type">curtain type </string>
+    <string name="text_available_colours">available colours </string>
+    <string name="text_measures">measures available</string>
+    <string name="text_value">value ($)</string>
+    <string name="text_Share">Share ($)</string>
+    <string name="text_buy"> buy</string>
+
+
+
+
+</resources>
