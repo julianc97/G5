@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">VentaCortinas</string>
-    <string name="text_Username">Usuario</string>
-    <string name="text_Password">Contraseña</string>
-    <string name="button_Login">Ingresar</string>
-</resources>
