@@ -3,12 +3,12 @@
     <string name="txt_action_search">busqueda</string>
     <string name="txt_action_setting">configuracion</string>
     <string name="txt_action_logout">cerrar sesion</string>
-    <string name="text_username">usuario</string>
-    <string name="text_password">contraseña</string>
-    <string name="hint_password">contraseña</string>
-    <string name="text_LOGIN">ingresar</string>
+    <string name="text_username">Usuario</string>
+    <string name="text_password">Contraseña</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_LOGIN">Ingresar</string>
     <string name="text_error_message">Usuario o contraseña invalido</string>
-    <string name="text_register">registrarse</string>
+    <string name="text_register">Registrarse</string>
     <string name="text_action_settings">Settings</string>
     <string name="text_action_search">Search</string>
     <string name="text_action_logout">cortinas</string>
