@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Abonos</string>
+    <string name="text_NumberOfWeeklyFees">Numero de Cuotas Semanales:</string>
+    <string name="text_Save">Guardar:</string>
+    <string name="text_FeesGenerated">Cuotas Genaradas:</string>
+    <string name="text_WeeklyFees">Cuotas Semanales:</string>
+    <string name="text_FeesDate">Fecha de Abono:</string>
+    <string name="text_FeesValue">Valor Abonado:</string>
+</resources>

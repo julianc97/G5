@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fees</string>
+    <string name="text_NumberOfWeeklyFees">Number Of Weekly Fees:</string>
+    <string name="text_Save">Save:</string>
+    <string name="text_FeesGenerated">Fees Generated:</string>
+    <string name="text_WeeklyFees">Weekly Fees:</string>
+    <string name="text_FeesDate">Fees Date:</string>
+    <string name="text_FeesValue">Fees Value:</string>
+</resources>
